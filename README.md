@@ -6,6 +6,15 @@ This project presents an interactive Power BI dashboard to analyze credit card b
 
 ---
 
+Business Questions
+Which card category generates the highest revenue?
+Which customer segment contributes the most to business performance?
+How does income level impact revenue generation?
+What are the revenue trends over time?
+Which segments or categories are underperforming?
+
+---
+
 ## Dashboard Preview
 
 ### Dashboard 1: Credit Card Business Performance
@@ -24,12 +33,35 @@ This dashboard focuses on customer behavior and segmentation. It analyzes revenu
 
 ## Key Insights
 
-- Blue card category generates the highest revenue (~$47M)
-- Businessman segment is the top revenue contributor
-- High-income customers drive the majority of revenue
-- Total revenue reached ~$56.5M with a 57% activation rate
-- Revenue trend shows a gradual decline over time
-- Graduate customers contribute the highest revenue among education levels
+- Blue card category dominates revenue (~$47M), indicating strong customer preference
+- Businessman segment contributes the highest revenue among all segments
+- High-income customers are the primary drivers of overall revenue
+- Revenue trend shows a gradual decline, indicating potential retention issues
+- Graduate customers generate the highest revenue, showing a link between education and spending behavior
+
+---
+
+## Business Recommendations
+Focus marketing efforts on high-income customers to maximize revenue
+Improve customer engagement strategies to address declining revenue trends
+Promote premium card categories to increase profitability
+Target professional segments (Businessman, White-collar) for growth opportunities
+
+---
+
+## Data Model
+
+The dataset follows a star schema structure:
+
+Fact Table:
+Transactions (Revenue, Interest, Customers)
+Dimension Tables:
+Customer Segment
+Card Category
+Income Group
+Date
+
+This structure enables efficient filtering, aggregation, and time-based analysis.
 
 ---
 
