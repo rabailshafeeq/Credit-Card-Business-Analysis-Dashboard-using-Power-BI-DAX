@@ -109,11 +109,8 @@ DIVIDE(
 
 ---
 
-## Notes
+## Author
 
-Make sure to place dashboard images inside an `images` folder with the following names:
-
-- images/credit-card-business-dashboard.png
-- images/customer-segmentation-dashboard.png
-
-This ensures the images display correctly in GitHub.
+**Rabail Shafeeq**  
+Data Analyst | Power BI & DAX  
+GitHub: https://github.com/rabailshafeeq
