@@ -55,6 +55,7 @@ The dataset follows a star schema structure:
 
 Fact Table:
 Transactions (Revenue, Interest, Customers)
+
 Dimension Tables:
 Customer Segment
 Card Category
