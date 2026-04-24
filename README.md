@@ -10,13 +10,13 @@ This project presents an interactive Power BI dashboard to analyze credit card b
 
 ### Dashboard 1: Credit Card Business Performance
 
-![Credit Card Business Performance Dashboard](./images/Credit Card Report-1.png)
+![Dashboard 1](./images/credit-card-dashboard-1.png)
 
 This dashboard provides a high-level overview of business performance. It highlights total revenue, total customers, activation rate, and overall revenue trends. It also shows how different card categories and customer segments contribute to revenue.
 
 ### Dashboard 2: Customer Segmentation & Behavior Analysis
 
-![Customer Segmentation Dashboard](./images/Credit Card Report-2.png)
+![Dashboard 2](./images/credit-card-dashboard-2.png)
 
 This dashboard focuses on customer behavior and segmentation. It analyzes revenue distribution across education levels, income groups, and customer segments, helping identify the most valuable customer profiles.
 
